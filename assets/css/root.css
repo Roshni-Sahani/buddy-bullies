@@ -1,0 +1,176 @@
+:root {
+
+    /* font-size */
+    --fs-16px: 16px;
+    --fs-22: 22px;
+    --fs-18: 18px;
+    --fs-25: 25px;
+    --fs-70px: 70px;
+    --fs-20px: 20px;
+    --fs-50px: 50px;
+    --fs-30px: 30px;
+    /* font-weight */
+    --fw-600: 600;
+    --fw-500: 500;
+    --fw-400: 400;
+    --fw-700: 700;
+
+    /* font-family */
+    --ff-poppins: poppins;
+    --fs-montserrat: montserrat;
+}
+
+.logo {
+    font-size: var(--fs-22px);
+    font-weight: var(--fw-600);
+    font-family: var(--ff-poppins);
+}
+
+.map {
+    font-size: var(--fs-18);
+    font-weight: var(--fw-500);
+    font-family: var(--ff-poppins);
+}
+
+.blank {
+    font-family: var(--ff-poppins);
+    font-size: var(--fs-70px);
+    font-weight: var(--fw-400);
+}
+
+.space {
+    font-size: var(--fs-70px);
+    font-family: var(--ff-poppins);
+    font-weight: var(--fw-700);
+
+}
+
+.dolor {
+    font-family: var(--ff-poppins);
+    font-size: var(--fs-20px);
+    font-weight: var(--fw-500);
+}
+
+.mint {
+    font-size: var(--fs-50px);
+    font-family: var(--ff-poppins);
+    font-weight: var(--fw-600);
+}
+
+.sol {
+    font-family: var(--ff-poppins);
+    font-size: var(--fs-30px);
+    font-weight: var(--fw-500);
+}
+
+.before {
+    font-family: var(--ff-poppins);
+    font-size: var(--fs-16px);
+    font-weight: var(--fw-400);
+}
+
+.coming-btn {
+    font-family: var(--ff-poppins);
+    font-size: var(--fs-16px);
+    font-weight: var(--fw-500);
+}
+
+.art {
+    font-family: var(--ff-poppins);
+    font-size: var(--fs-30px);
+    font-weight: var(--fw-600);
+}
+
+.complete {
+    font-family: var(--ff-poppins);
+    font-size: var(--fs-16px);
+    font-weight: var(--fw-400);
+}
+
+.velit {
+    font-family: var(--ff-poppins);
+    font-size: var(--fs-30px);
+    font-weight: var(--fw-600);
+
+}
+
+.elit {
+    font-family: var(--ff-poppins);
+    font-size: var(--fs-16px);
+    font-weight: var(--fw-400);
+}
+
+.none {
+    font-family: var(--ff-poppins);
+    font-size: var(--fs-50px);
+    font-weight: var(--fw-600);
+}
+
+.what {
+    font-family: var(--ff-montserrat);
+    font-size: var(--fs-20px);
+    font-weight: var(--fw-500);
+
+}
+
+.sit {
+    font-family: var(--ff-poppins);
+    font-size: var(--fs-16px);
+    font-weight: var(--fw-500);
+}
+
+.just {
+    font-family: var(--ff-poppins);
+    font-size: var(--fs-30px);
+    font-weight: var(--fw-500);
+
+}
+
+.our {
+    font-family: var(--ff-poppins);
+    font-size: var(--fs-50px);
+    font-weight: var(--fw-600);
+}
+
+.prime {
+    font-family: var(--ff-poppins);
+    font-size: var(--fs-30px);
+    font-weight: var(--fw-600);
+}
+
+.artist {
+    font-family: var(--ff-poppins);
+    font-size: var(--fs-18px);
+    font-weight: var(--fw-400);
+}
+
+.join {
+    font-family: var(--ff-poppins);
+    font-size: var(--fs-50px);
+    font-weight: var(--fw-600);
+}
+
+.mail {
+    font-family: var(--ff-poppins);
+    font-size: var(--fs-16px);
+    font-weight: var(--fw-400);
+}
+
+.bully {
+    font-family: var(--ff-poppins);
+    font-size: var(--fs-16px);
+    font-weight: var(--fw-500);
+}
+
+.roadmap {
+    font-family: var(--ff-poppins);
+    font-size: var(--fs-50px);
+    font-weight: var(--fw-600);
+
+}
+
+.started-btn {
+    font-family: var(--ff-poppins);
+    font-size: var(--fs-25px);
+    font-weight: var(--fw-500);
+}
